@@ -5,112 +5,44 @@
 
 - 📝 I regularly write articles on [https://gadgetslogs.com/author/yclown/](https://gadgetslogs.com/author/yclown/)
 
-- 📫 How to reach me **er.mandloiyashraj@gmail.com**
+- 📫 reach me at **er.mandloiyashraj@gmail.com**
 
-<h3 align="left">Certifications:</h3>
-<div style="display:flex; flex-wrap:wrap; align-items:center;">
-  <span style="display:flex; background:#F0FDF4; padding:10px; border-radius:8px; margin:4px;">
-    <img src="https://images.credly.com/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="AWS Certified Cloud Practitioner" width="110" />
-  </span>
-  <span style="display:flex; background:#EFF6FF; padding:10px; border-radius:8px; margin:4px;">
-    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="HashiCorp Certified Terraform Associate" width="110" />
-  </span>
-</div>
+<!-- certifiactions -->
 
-<h3 align="left">Connect with me:</h3>
-<div style="display:flex; flex-wrap:wrap; align-items:center;">
-  <span style="display:flex; background:#EFF6FF; padding:8px; border-radius:8px; margin:4px;">
-    <a href="https://linkedin.com/in/yashraj-mandloi" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-    </a>
-  </span>
-  <span style="display:flex; padding:6px; border: 2px solid #e2e8f0; border-radius:8px; margin:4px;">
-    <a href="https://www.leetcode.com/clowneon1" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
-    </a>
-  </span>
-  <span style="display:flex; background:#FFFBEB; padding:8px; border-radius:8px; margin:4px;">
-    <a href="https://www.credly.com/users/yashraj-mandloi/badges" target="_blank">
-      <img src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="Credly" width="40" height="40" />
-    </a>
-  </span>
-</div>
+### 🏅 Certifications
 
+[![Terraform Associate](https://images.credly.com/size/220x220/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/6e4396d0-b9ac-47c7-8837-d482bbbf3baa)
+[![AWS Cloud Practitioner](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/92161de5-e0b2-466a-a83c-d330541ee0d4)
+
+<!-- profile -->
+
+### 🔗 Profiles
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashraj-mandloi)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/clowneon1)
+[![Credly](https://img.shields.io/badge/-Credly-00C853?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/yashraj-mandloi/badges)
+
+<!-- toos and skills -->
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:10px;">
 
-  <div style="background:#F3F4F6; padding:10px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40">
-  </div>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-  <div style="background:#EFF6FF; padding:10px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
-  </div>
+<!-- Stats -->
 
-  <div style="background:#F3F4F6; padding:10px; border-radius:8px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
-  </div>
-
-  <div style="background:#FEF3C7; padding:10px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-  </div>
-
-  <div style="background:#FFFBEB; padding:10px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  </div>
-
-  <div style="background:#F3F4F6; padding:10px; border-radius:8px;">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40">
-  </div>
-
-  <div style="background:#F3F4F6; padding:10px; border-radius:8px;">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40">
-  </div>
-
-  <div style="background:#EFF6FF; padding:10px; border-radius:8px;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40">
-  </div>
-
-  <div style="background:#F0FDF4; padding:10px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
-  </div>
-
-  <div style="background:#F0FDF4; padding:10px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40">
-  </div>
-
-  <div style="background:#EFF6FF; padding:10px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">
-  </div>
-
-  <div style="background:#E0F2FE; padding:10px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
-  </div>
-
-  <div style="background:#FFE4E6; padding:10px; border-radius:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40">
-  </div>
-
-  <div style="background:#E3FCEC; padding:10px; border-radius:8px;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40">
-  </div>
-
-  <div style="background:#ECFEFF; padding:10px; border-radius:8px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40">
-  </div>
-
-  <div style="background:#EFF6FF; padding:10px; border-radius:8px;">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40">
-  </div>
-
-</div>
-
-<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:flex-start;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clowneon1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=clowneon1&show_icons=true&locale=en" alt="GitHub Stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clowneon1&" alt="Streak Stats" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=clowneon1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=clowneon1&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=clowneon1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
