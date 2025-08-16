@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashraj Mandloi</h1>
+<h1 align="center">Hi, I'm Yashraj Mandloi</h1>
 <h3 align="center">A Full Stack Java Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.codepenguin.live/](https://www.codepenguin.live/)
