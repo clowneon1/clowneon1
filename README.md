@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yashraj Mandloi</h1>
 <h3 align="center">A Full Stack Java Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.codepenguin.live/](https://www.codepenguin.live/)
+- 👨‍💻 All of my projects are available at [https://www.codepenguin.live/](https://www.codepenguin.in/)
 
 - 📝 I regularly write articles on [https://gadgetslogs.com/author/yclown/](https://gadgetslogs.com/author/yclown/)
 
